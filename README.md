@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Mofidikhajeh
 
-<!--
-**mofidi80/mofidi80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a master's student in **Computer Science – Data Mining** at Tarbiat Modares University, with a deep interest in data science, machine learning, and deep learning.
 
-Here are some ideas to get you started:
+🚀 I transitioned from a background in Radiation Therapy to tech, and over the last few years, I've built hands-on experience in:
+- **Python, SQL, and Git**
+- **Machine Learning** with Scikit-learn
+- **Deep Learning** using PyTorch (MLP, CNN, RNN, Transformer)
+- **Data Analysis & Visualization** with Pandas, Matplotlib, Seaborn
+- **Interactive dashboards** with Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will be putting most of my class projects here, so feel free to use them as a reference for implimentation if you're taking similar classes :)
+---
+
+## 🧠 Current Focus
+
+> I’m currently working on deep learning models like **CNNs, RNNs, and Transformers** for tasks such as:
+- Image Classification
+- Image Segmentation
+- Sequence Modeling
+- Text Generation
+
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: mohammad.mofidi.k@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-mofidi-khajeh-2715832b8/)  
+- 🌍 [Kaggle](https://www.kaggle.com/mmofidi)  
+
+---
+
+📌 *Feel free to explore my repositories to see what I’m working on. Always open to collaboration and learning more!*
