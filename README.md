@@ -17,8 +17,7 @@ I will be putting most of my class projects here, so feel free to use them as a 
 > I’m currently working on deep learning models like **CNNs, RNNs, and Transformers** for tasks such as:
 - Image Classification
 - Image Segmentation
-- Sequence Modeling
-- Text Generation
+
 
 
 ---
